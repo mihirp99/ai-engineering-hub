@@ -1,0 +1,4 @@
+{
+  "install": "echo 'AI Engineering Hub - no runtime dependencies'",
+  "start": "echo 'Ready for cloud agent tasks'"
+}
